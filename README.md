@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/KM3VNP5d1FIAAAAC/miku-hello.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/KM3VNP5d1FIAAAAC/miku-hello.gif"  />
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/ e-daniella" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
