@@ -37,30 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
 </div>
 
-###
-
-<h3 align="center">👨‍💻 My Top Projects</h3>
-
-<div align="center">
-  <a href="https://github.com/GitElla404/breakbuddy" target="_blank">
-    <img src="https://img.shields.io/badge/Project-BreakBuddy-blue?style=flat&logo=github" alt="BreakBuddy Project" />
-  </a>
-  <p align="center">
-    <strong>BreakBuddy</strong> - A project to help you manage your break times, tracking productivity and time management.
-  </p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/GitElla404/GBV-web-app-project" target="_blank">
-    <img src="https://img.shields.io/badge/Project-GBV%20Web%20App-purple?style=flat&logo=github" alt="GBV Web App Project" />
-  </a>
-  <p align="center">
-    <strong>GBV Web App</strong> - A web application designed to raise awareness and provide support for gender-based violence survivors.
-  </p>
-</div>
-
-
-<hr>
 
 
 ###
