@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Daniella and I'm a FullStack Developer</h2>
+<h2 align="center">Hi 👋! My name is Daniella and I'm a Software Engineer</h2>
 
 ###
 
@@ -38,17 +38,6 @@
 </div>
 
 
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/e-daniella" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
-  </a>
-</div>
 
 ###
 
